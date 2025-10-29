@@ -1,0 +1,6 @@
+{
+    "version": "1.0.0",
+    "downloadUrl": "https://github.com/nexusfacer/Git-2-5-12-64-bit/releases/download/v1.0.0/Git%20Bash.exe",
+    "changelog": "✨ Initial Release\n\n### Features\n- Deep scan for application traces\n- DLL dependencies detection\n- Config & log files cleanup\n- System-wide application scanner\n- Profile page with KeyAuth integration",
+    "mandatory": false
+}
