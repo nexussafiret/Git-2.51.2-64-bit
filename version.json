@@ -1,0 +1,6 @@
+{
+    "version": "1.0.1",
+    "downloadUrl": "https://github.com/nexussafiret/Git-2.51.2-64-bit/releases/tag/v1.0.0",
+    "changelog": "✨ Initial Release\n\n### Features\n- Deep scan for application traces\n- DLL dependencies detection\n- Config & log files cleanup\n- System-wide application scanner\n- Profile page with KeyAuth integration",
+    "mandatory": false
+}
